@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7c8cafe1-150e-497d-a0d1-e0fc3875079a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1601455606" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="ProjectId" id="1he62E8GQhIMIST5lGnQk9AMrEk" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.18.2" />
+    <property name="javascript.nodejs.core.library.typings.version" value="12.12.62" />
+    <property name="js.linters.configure.manually.selectedeslint" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="$USER_HOME$/.config/yarn/global/node_modules/eslint" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="prettier.files.pattern" value="{**/*,*}.{js,ts,jsx,tsx, gql}" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="$USER_HOME$/.config/yarn/global/node_modules/prettier" />
+    <property name="run.prettier.on.save" value="true" />
+    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7c8cafe1-150e-497d-a0d1-e0fc3875079a" name="Default Changelist" comment="" />
+      <created>1600359002662</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600359002662</updated>
+      <workItem from="1600359004536" duration="4235000" />
+      <workItem from="1600419665997" duration="4651000" />
+      <workItem from="1600431095761" duration="5041000" />
+      <workItem from="1600602583959" duration="1328000" />
+      <workItem from="1601203861891" duration="466000" />
+      <workItem from="1601217851299" duration="4442000" />
+      <workItem from="1601270953507" duration="7802000" />
+      <workItem from="1601288312446" duration="694000" />
+      <workItem from="1601447989080" duration="18000" />
+      <workItem from="1601449073697" duration="2844000" />
+      <workItem from="1601465699962" duration="2893000" />
+    </task>
+    <task id="LOCAL-00001" summary=":hammer: refactor database">
+      <created>1601284065480</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601284065480</updated>
+    </task>
+    <task id="LOCAL-00002" summary=":books: Fix documentation">
+      <created>1601289794495</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1601289794495</updated>
+    </task>
+    <task id="LOCAL-00003" summary="change schema to retrieve user from holidaysj">
+      <created>1601469387859</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1601469387859</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value=":hammer: refactor database" />
+    <MESSAGE value=":books: Fix documentation" />
+    <MESSAGE value="change schema to retrieve user from holidaysj" />
+    <option name="LAST_COMMIT_MESSAGE" value="change schema to retrieve user from holidaysj" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="554" y="-784" width="708" height="520" key="#ESLint" timestamp="1601466420744">
+      <screen x="-73" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="554" y="-784" width="708" height="520" key="#ESLint/-73.-1057.1920.1057/0.23.1792.1097@-73.-1057.1920.1057" timestamp="1601466420744" />
+    <state x="582" y="191" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601204098534">
+      <screen x="0" y="23" width="1536" height="937" />
+    </state>
+    <state x="582" y="191" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1536.937@0.23.1536.937" timestamp="1601204098534" />
+    <state x="728" y="213" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1920.1057@0.23.1920.1057" timestamp="1600360072371" />
+    <state width="1350" height="362" key="GridCell.Tab.0.bottom" timestamp="1601467362610">
+      <screen x="-73" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1350" height="362" key="GridCell.Tab.0.bottom/-73.-1057.1920.1057/0.23.1792.1097@-73.-1057.1920.1057" timestamp="1601467362610" />
+    <state width="879" height="313" key="GridCell.Tab.0.bottom/0.23.1536.937@0.23.1536.937" timestamp="1601284082797" />
+    <state width="1350" height="362" key="GridCell.Tab.0.center" timestamp="1601467362609">
+      <screen x="-73" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1350" height="362" key="GridCell.Tab.0.center/-73.-1057.1920.1057/0.23.1792.1097@-73.-1057.1920.1057" timestamp="1601467362609" />
+    <state width="879" height="313" key="GridCell.Tab.0.center/0.23.1536.937@0.23.1536.937" timestamp="1601284082796" />
+    <state width="1350" height="362" key="GridCell.Tab.0.left" timestamp="1601467362609">
+      <screen x="-73" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1350" height="362" key="GridCell.Tab.0.left/-73.-1057.1920.1057/0.23.1792.1097@-73.-1057.1920.1057" timestamp="1601467362609" />
+    <state width="879" height="313" key="GridCell.Tab.0.left/0.23.1536.937@0.23.1536.937" timestamp="1601284082796" />
+    <state width="1350" height="362" key="GridCell.Tab.0.right" timestamp="1601467362609">
+      <screen x="-73" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1350" height="362" key="GridCell.Tab.0.right/-73.-1057.1920.1057/0.23.1792.1097@-73.-1057.1920.1057" timestamp="1601467362609" />
+    <state width="879" height="313" key="GridCell.Tab.0.right/0.23.1536.937@0.23.1536.937" timestamp="1601284082797" />
+    <state x="487" y="-928" key="SettingsEditor" timestamp="1601450264555">
+      <screen x="-73" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="487" y="-928" key="SettingsEditor/-73.-1057.1920.1057/0.23.1792.1097@-73.-1057.1920.1057" timestamp="1601450264555" />
+    <state x="448" y="137" key="SettingsEditor/0.23.1536.937@0.23.1536.937" timestamp="1601204017019" />
+    <state x="765" y="190" key="SettingsEditor/0.23.1920.1057@0.23.1920.1057" timestamp="1600425662244" />
+    <state x="490" y="231" key="Vcs.Push.Dialog.v2" timestamp="1601279401203">
+      <screen x="0" y="23" width="1536" height="937" />
+    </state>
+    <state x="490" y="231" key="Vcs.Push.Dialog.v2/0.23.1536.937@0.23.1536.937" timestamp="1601279401203" />
+    <state x="611" y="412" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601273836226">
+      <screen x="0" y="23" width="1536" height="937" />
+    </state>
+    <state x="611" y="412" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1536.937@0.23.1536.937" timestamp="1601273836226" />
+    <state x="593" y="-774" width="586" height="490" key="find.popup" timestamp="1601455049529">
+      <screen x="-73" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="593" y="-774" width="586" height="490" key="find.popup/-73.-1057.1920.1057/0.23.1792.1097@-73.-1057.1920.1057" timestamp="1601455049529" />
+    <state x="1202" y="254" width="670" height="676" key="search.everywhere.popup" timestamp="1600434545292">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="1202" y="254" width="670" height="676" key="search.everywhere.popup/0.23.1920.1057@0.23.1920.1057" timestamp="1600434545292" />
+  </component>
+</project>
