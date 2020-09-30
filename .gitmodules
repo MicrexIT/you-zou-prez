@@ -1,6 +1,0 @@
-[submodule "you-zou-front"]
-	path = you-zou-front
-	url = https://github.com/MicrexIT/you-zou-front.git
-[submodule "you-zou-server"]
-	path = you-zou-server
-	url = https://github.com/MicrexIT/you-zou-server.git
